@@ -16,13 +16,7 @@
     }
   ],
   "require": {
-    "php": ">= 7.1",
-    "nette/caching": "~2.5.8 || ~3.0.0"
-  },
-  "require-dev": {
-    "ninjify/qa": "^0.8.0",
-    "ninjify/nunjuck": "^0.2.0",
-    "nette/di": "~2.4.13"
+    "php": ">= 7.1"
   },
   "suggest": {
     "nette/di": "to use CacheFactoryExtension[CompilerExtension]"
